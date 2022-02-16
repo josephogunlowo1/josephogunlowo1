@@ -12,7 +12,7 @@
   </a>
 </div>
 
-### About Me
+### About Me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning DevOps
@@ -23,7 +23,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Stack
+### :Hammer_and_Wrench: Stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;  
